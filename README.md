@@ -1,2 +1,0 @@
-# remote-trip
-project
